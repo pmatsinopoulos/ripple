@@ -3,7 +3,7 @@ require 'ripple/version'
 
 Gem::Specification.new do |gem|
   # Meta
-  gem.name = "ripple"
+  gem.name = "wyngle-ripple"
   gem.version = Ripple::VERSION
   gem.summary = %Q{ripple is an object-mapper library for Riak, the distributed database by Basho.}
   gem.description = %Q{ripple is an object-mapper library for Riak, the distributed database by Basho.  It uses ActiveModel to provide an experience that integrates well with Rails 3 applications.}
